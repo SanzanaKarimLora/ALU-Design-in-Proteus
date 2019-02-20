@@ -1,0 +1,1 @@
+4 bit Arithmetic Logic Unit(ALU) has been designed in Proteus 8 Professional software. It can take input two 4-bit signed numbers with particular selectors and show output with different flags.
